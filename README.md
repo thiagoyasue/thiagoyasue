@@ -1,5 +1,38 @@
-- 🗻 Bem-vindo ao meu repositório, meu nome é Thiago Yasue.
-- 🎮 Graduado em Jogos Digitais e Mestre em Engenharia Biomédica pela Universidade de Mogi das Cruzes, São Paulo.
-- 🗼 Se quiser conferir meus projetos de jogos (e jogá-los), deixo abaixo meu portfólio (itch.io/) e o meu blog de projetos de jogos (wordpress):
-- https://thiagoyasue.itch.io/
-- https://murasoftstudios.wordpress.com
+# 🗻 Thiago Yasue
+
+Graduated in Digital Games and MSc in Biomedical Engineering from University of Mogi das Cruzes (São Paulo, Brazil).
+
+---
+
+## Areas of Interest
+
+* Game Design
+* Serious Games
+* Educational Games
+* Health-based mobile applications (mHealth)
+
+---
+
+## Technologies
+
+**Languages**
+
+* C#
+* C
+* JavaScript
+
+**Game Engines**
+
+* Unity
+* Godot
+* GameMaker Studio
+
+---
+
+## Contact
+
+* Twitter: [@thiagoyasue](https://twitter.com/thiagoyasue)
+* LinkedIn: [thiagoyasue](https://linkedin.com/in/thiagoyasue)
+* Games Portfolio: [thiagoyasue.itch.io](https://thiagoyasue.itch.io/)
+* Gamedev Journal: [Murasoft Studios](https://murasoftstudios.wordpress.com)
+* Discord: thiagoyasue
